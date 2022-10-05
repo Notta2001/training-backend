@@ -1,5 +1,4 @@
 import re
-from turtle import update
 from pymongo import MongoClient
 
 from app.constants.mongodb_constants import MongoCollections
